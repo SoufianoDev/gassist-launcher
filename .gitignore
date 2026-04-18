@@ -1,0 +1,59 @@
+# Gradle files
+.gradle
+/build
+/*/build
+*.apk
+*.ap_
+*.dex
+
+# Gradle local properties
+local.properties
+/local.properties
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Android Studio
+.DS_Store
+/captures
+.externalNativeBuild
+.cxx
+/lint.xml
+/.idea/assetWizardSettings.xml
+/.idea/navEditor.xml
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/caches
+
+# Kotlin
+.kotlinc
+
+# Test reports
+/test-results/
+/androidTest-results/
+
+# Miscellaneous
+*.class
+*.log
+*.swp
+*.swo
+*~
+.tmp
+.DS_Store
+
+# App specific
+app/release/

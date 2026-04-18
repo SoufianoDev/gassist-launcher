@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GAssist</string>
+    <string name="settings_title">Settings</string>
+    <string name="activation_mode_title">Activation Mode</string>
+    <string name="power_button_mode">Power Button Mode</string>
+    <string name="gesture_mode">Gesture Mode</string>
+    <string name="gesture_settings_title">Gesture Settings</string>
+    <string name="accessibility_required">Accessibility service required</string>
+    <string name="enable_accessibility">Enable Accessibility</string>
+    <string name="gesture_corner_title">Gesture Corner</string>
+    <string name="corner_left">Left</string>
+    <string name="corner_right">Right</string>
+    <string name="accessibility_description"> تتيح هذه الخدمة تشغيل Circle to Search بالسحب للأعلى. لا تجمع أي بيانات شخصية. </string>
+    <string name="accessibility_disabled">Accessibility service is disabled. Gesture mode will not work.</string>
+    <string name="accessibility_enabled">Accessibility service is enabled</string>
+    <string name="accessibility_service_description">Allows the app to simulate long press to trigger Circle to Search</string>
+
+</resources>

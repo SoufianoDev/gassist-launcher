@@ -1,0 +1,56 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="1024dp"
+    android:height="1024dp"
+    android:viewportWidth="1024"
+    android:viewportHeight="1024">
+  <path
+      android:pathData="M0,0h1024v1024h-1024z">
+    <aapt:attr name="android:fillColor">
+      <gradient
+          android:centerX="512"
+          android:centerY="409.6"
+          android:gradientRadius="768"
+          android:type="radial">
+        <item android:offset="0" android:color="#FF1A1F26"/>
+        <item android:offset="1" android:color="#FF080A0C"/>
+      </gradient>
+    </aapt:attr>
+  </path>
+  <path
+      android:pathData="M512,512m-400,0a400,400 0,1 1,800 0a400,400 0,1 1,-800 0">
+    <aapt:attr name="android:fillColor">
+      <gradient
+          android:centerX="512"
+          android:centerY="512"
+          android:gradientRadius="512"
+          android:type="radial">
+        <item android:offset="0" android:color="#0CFFFFFF"/>
+        <item android:offset="1" android:color="#00FFFFFF"/>
+      </gradient>
+    </aapt:attr>
+  </path>
+  <path
+      android:pathData="M512,192c-176.7,0 -320,143.3 -320,320s143.3,320 320,320 320,-143.3 320,-320 -143.3,-320 -320,-320zM512,768c-141.4,0 -256,-114.6 -256,-256s114.6,-256 256,-256 256,114.6 256,256 -114.6,256 -256,256z">
+    <aapt:attr name="android:fillColor">
+      <gradient
+          android:startX="256"
+          android:startY="256"
+          android:endX="768"
+          android:endY="768"
+          android:type="linear">
+        <item android:offset="0" android:color="#FF4285F4"/>
+        <item android:offset="1" android:color="#FF34A853"/>
+      </gradient>
+    </aapt:attr>
+  </path>
+  <path
+      android:pathData="M512,384L512,384A32,32 0,0 1,544 416L544,608A32,32 0,0 1,512 640L512,640A32,32 0,0 1,480 608L480,416A32,32 0,0 1,512 384z"
+      android:fillColor="#EA4335"/>
+  <path
+      android:pathData="M384,448L384,448A32,32 0,0 1,416 480L416,544A32,32 0,0 1,384 576L384,576A32,32 0,0 1,352 544L352,480A32,32 0,0 1,384 448z"
+      android:fillColor="#FBBC04"/>
+  <path
+      android:pathData="M640,448L640,448A32,32 0,0 1,672 480L672,544A32,32 0,0 1,640 576L640,576A32,32 0,0 1,608 544L608,480A32,32 0,0 1,640 448z"
+      android:fillColor="#4285F4"/>
+</vector>
